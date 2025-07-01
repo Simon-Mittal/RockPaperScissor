@@ -2,7 +2,7 @@
 
 
 🎮 Overview
-This is a simple Rock-Paper-Scissors game where a user plays against the computer. The player selects Rock, Paper, or Scissors, and the computer makes a random choice. The winner is determined based on the classic game rules.
+* This is a simple Rock-Paper-Scissors game where a user plays against the computer. The player selects Rock, Paper, or Scissors, and the computer makes a random choice. The winner is determined based on the classic game rules.
 
 🚀 Features
 * Play Rock, Paper, Scissors against the computer.
@@ -22,7 +22,7 @@ This is a simple Rock-Paper-Scissors game where a user plays against the compute
 * Add sound effects or animations.
 
 🙌 Author
-Simon Mittal
-GitHub: Simon-Mittal
+* Simon Mittal
+* GitHub: Simon-Mittal
 
 
